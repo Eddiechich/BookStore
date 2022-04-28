@@ -1,0 +1,131 @@
+{
+    "Store": "The book side of the brain",
+    "CheckOut":{
+        "Shipping to":[
+            {
+                "Country":"Israel",
+                "Couriors":[
+                    {
+                        "DHL":{
+                            "Shipping price":"Free shipping",
+                            "Deliver time":"2-3 Buissness days"
+                        },
+                        "Fedex":{
+                            "Shipping price":"Free shipping",
+                            "Deliver time":"2-3 Buissness days"
+                        },
+                        "BoostUp":{
+                            "Shipping price":"Free shipping",
+                            "Deliver time":"2-3 Buissness days"
+                        }
+                    }
+                ],
+                "Cities":[
+                    {
+                        "Marakesh":"Mid town",
+                        "Address":"Borad Ajbar 6",
+                        "Floor":"Ground",
+                        "Package serial start in":["915","916","917"]
+                    },
+                    {
+                        "Rabat":"Forth square",
+                        "Address":"Hooram El Shamir",
+                        "Floor":"First floor",
+                        "Package serial start in":["815","816","817"]
+                    },
+                    {
+                        "Pas":"Post office",
+                        "Address":"Jeeral Rah Bustan",
+                        "Floor":"Seventh floor",
+                        "Package serial start in":["715","716","717"]
+                    }
+                ]
+            },
+            {
+                "Country":"Iran",
+                "Shipping price":"NO shipping",
+                "Deliver time":"NEVER ARRIVE",
+                "Couriors":["NONE"] 
+            },
+            {
+                "Country":"China",
+                "Couriors":[
+                    {
+                        "DHL":{
+                            "Shipping price":"70$",
+                            "Deliver time":"4-6 Buissness days"
+                        },
+                        "Fedex":{
+                            "Shipping price":"60$",
+                            "Deliver time":"5-8 Buissness days"
+                        },
+                        "BoostUp":{
+                            "Shipping price":"50$",
+                            "Deliver time":"7-9 Buissness days"
+                        }
+                    }
+                ],         
+                "Cities":[
+                    {
+                        "Marakesh":"Mid town",
+                        "Address":"Borad Ajbar 6",
+                        "Floor":"Ground",
+                        "Package serial start in":["615","616","617"]
+                    },
+                    {
+                        "Rabat":"Forth square",
+                        "Address":"Hooram El Shamir",
+                        "Floor":"First floor",
+                        "Package serial start in":["515","516","517"]
+                    },
+                    {
+                        "Pas":"Post office",
+                        "Address":"Jeeral Rah Bustan",
+                        "Floor":"Seventh floor",
+                        "Package serial start in":["15","16","17"]
+                    }
+                ]
+            },
+            {
+                "Country":"Marocco",
+                "Couriors":[
+                    {
+                        "DHL":{
+                            "Shipping price":"25$",
+                            "Deliver time":"2-3 Buissness days"
+                        },
+                        "Fedex":{
+                            "Shipping price":"20$",
+                            "Deliver time":"3-5 Buissness days"
+                        },
+                        "BoostUp":{
+                            "Shipping price":"15$",
+                            "Deliver time":"6-8 Buissness days"
+                        }
+                    }
+                ],
+                "Cities":[
+                    {
+                        "Marakesh":"Mid town",
+                        "Address":"Borad Ajbar 6",
+                        "Floor":"Ground",
+                        "Package serial start in":["415","416","417"]
+                    },
+                    {
+                        "Rabat":"Forth square",
+                        "Address":"Hooram El Shamir",
+                        "Floor":"First floor",
+                        "Package serial start in":["415","416","417"]
+                    },
+                    {
+                        "Pas":"Post office",
+                        "Address":"Jeeral Rah Bustan",
+                        "Floor":"Seventh floor",
+                        "Package serial start in":["415","416","417"]
+                    }
+                ]
+            }
+
+        ]
+    }
+}

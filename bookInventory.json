@@ -1,0 +1,149 @@
+{
+    "Store": "The book side of the brain",
+    "Books Catagory":[
+        {
+            "Fantasy":["Animal Farm","Beastly","Cinder"],
+            "Mystery":["And Then There Were None","Betrayed","Cryer's Cross"],
+            "Noval":["Cinder","And Then There Were None","Cryer's Cross"],
+            "Crime":["Betrayed","Animal Farm","Beastly"]
+        }
+    ],
+
+    "Books by price":[
+        {
+            "Name":"Beastly",
+            "Price":"150$"
+        },
+        {
+            "Name":"Cryer's Cross",
+            "Price":"160$"
+        },
+        {
+            "Name":"Betrayed",
+            "Price":"170$"
+        },
+        {
+            "Name":"Animal Farm",
+            "Price":"175$"
+        },
+        {
+            "Name":"Cinder",
+            "Price":"180$"
+        },
+        {
+            "Name":"And Then There Were None",
+            "Price":"200$"
+        }
+    ],
+
+    "Books from A-Z":[
+        {
+            "A":[
+                {
+                    "Name":"Animal Farm",
+                    "Price":"175$",
+                    "Auther":"George Orwell",
+                    "Relaese date":"May 6th 2003 (first published August 17th 1945)",
+                    "Catagory":["Fantasy","Crime"],
+                    "Description":{
+                        "Charecters":["Napoleon","Clover","Old Major"],
+                        "About":"All animals are equal, but some animals are more equal than others.” A farm is taken over by its overworked, mistreated animals...",
+                        "Edition Language":"English"
+                        },
+                    "More books in the same catagory":{
+                        "Fantasy":["Beastly","Cinder"],
+                        "Crime":["Betrayed","Beastly"]
+                    }
+                },
+                {
+                    "Name":"And Then There Were None",
+                    "Price":"200$",
+                    "Auther":"Agatha Christie",
+                    "Relaese date":"May 3rd 2004 (first published November 6th 1939)",
+                    "Catagory":["Mystery","Noval"],
+                    "Description":{
+                        "Charecters":["Justice Lawrence John Wargrave" , "Vera Elizabeth Claythorne" , "Philip Lombard"],
+                        "About":"First, there were ten—a curious assortment of strangers summoned as weekend guests to a little private island off the coast of Devon...",
+                        "Edition Language":"English"
+                    },
+                    "More books in the same catagory":{
+                        "Mystery":["Betrayed","Cryer's Cross"],
+                        "Noval":["Cinder","Cryer's Cross"]
+                    }
+                }
+            ],
+
+            "B":[
+                {
+                    "Name":"Beastly",
+                    "Price":"150$",
+                    "Auther":"Alex Flinn",
+                    "Relaese date":"October 2nd 2007",
+                    "Catagory":["Fantasy","Crime"],
+                    "Description":{
+                        "Charecters":["Magda","Kyle Kingsbury","Will Fratalli"],
+                        "About":"A beast. Not quite wolf or bear, gorilla or dog but a horrible new creature who walks upright—a creature with fangs and claws and hair springing from every pore...",
+                        "Edition Language":"English"
+                    },
+                    "More books in the same catagory":{
+                        "Fantasy":["Animal Farm","Cinder"],
+                        "Crime":["Betrayed","Animal Farm"]
+                    }
+                },
+                {
+                    "Name":"Betrayed",
+                    "Price":"170$",
+                    "Auther":["P.C. Cast","Kristin Cast"],
+                    "Relaese date":"October 2nd 2007",
+                    "Catagory":["Mystery","Crime"],
+                    "Description":{
+                        "Charecters":["Zoey Redbird","Erik Night","Stevie Rae"],
+                        "About":"Zoey, High Priestess in training, has managed to settle in at the House of Night and come to terms with the vast powers the Vampyre Goddess Nyx has given her...",
+                        "Edition Language":"English"
+                        },
+                    "More books in the same catagory":{
+                        "Mystery":["And Then There Were None","Cryer's Cross"],
+                        "Crime":["Animal Farm","Beastly"]
+                    }
+                    
+                }
+            ],
+
+            "C":[
+                {
+                    "Name":"Cinder",
+                    "Price":"180$",
+                    "Auther":"Marissa Meyer",
+                    "Relaese date":"January 3rd 2012",
+                    "Catagory":["Fantasy","Noval"],
+                    "Description":{
+                        "Charecters":["Linh Cinder","Dr. Dmitri Erland"," Queen Levana"],
+                        "About":"Humans and androids crowd the raucous streets of New Beijing. A deadly plague ravages the population...",
+                        "Edition Language":"English"
+                    },
+                    "More books in the same catagory":{
+                        "Fantasy":["Animal Farm","Beastly","Cinder"],
+                        "Noval":["And Then There Were None","Cryer's Cross"]
+                    }
+                },
+                {
+                    "Name":"Cryer's Cross",
+                    "Price":"160$",
+                    "Auther":"Lisa McMann",
+                    "Relaese date":"February 8th 2011",
+                    "Catagory":["Mystery","Noval"],
+                    "Description":{
+                        "Charecters":["Kendall Fletcher","Nico Cruz","Jacián Obregon"],
+                        "About":"Kendall loves her life in small town Cryer's Cross, Montana, but she also longs for something more...",
+                        "Edition Language":"English"
+                    },
+                    "More books in the same catagory":{
+                        "Mystery":["And Then There Were None","Betrayed"],
+                        "Noval":["Cinder","And Then There Were None"]
+                    }
+                }
+               
+            ]
+        }
+    ]
+}
